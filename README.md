@@ -1,0 +1,19 @@
+my first git repo
+================
+Alex Klimek
+
+# My first commit
+
+here is some text that constitutes my first commit in my first repo.
+
+# My second commit
+
+here is more text that will be added in my second command
+
+# My third commit
+
+here is some final text
+
+# my test branch
+
+here is some text that I will commit to my test branch
