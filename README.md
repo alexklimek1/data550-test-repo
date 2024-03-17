@@ -7,6 +7,8 @@ Alex Klimek
 here is some text that constitutes my first commit in my first repo.
 text for another commit text for yet another commit
 
+**Here is some text on the test2 branch.**
+
 # My second commit
 
 here is more text that will be added in my second command
