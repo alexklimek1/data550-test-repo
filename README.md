@@ -5,6 +5,7 @@ Alex Klimek
 # My first commit
 
 here is some text that constitutes my first commit in my first repo.
+text for another commit text for yet another commit
 
 # My second commit
 
