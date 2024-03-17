@@ -11,6 +11,7 @@ text for another commit
 text for yet another commit 
 
 __Here is some text on the test2 branch.__ 
+__Here is some more text on the test2 branch.__ 
 
 # My second commit
 
